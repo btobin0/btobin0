@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Tobin</h1>
 <h3 align="center">AI and ML Research Scientist Enthusiast</h3>
 
-- 🌱 I’m currently learning **AI and ML. Topics include Cnn/RNN, NN, Benchmarking, and More.**
+- 🌱 I’m currently learning **AI and ML. Topics include CNN/RNN, NN, Benchmarking, and More.**
 
 - 👯 I’m looking to collaborate on **AI Research Projects, especially with CNN/RNN, NN, Chatbots, and Super Intelligence**
   
