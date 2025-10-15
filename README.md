@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brian Tobin</h1>
-<h3 align="center">AI Research Scientist Enthusiast</h3>
+<h3 align="center">AI and ML Research Scientist Enthusiast</h3>
 
 - 🌱 I’m currently learning **AI, RNN, CNN, NN, Benchmarking**
 
 - 👯 I’m looking to collaborate on **AI Research Projects**
+- 
+- 👨‍💻 Some of my projects include
+    - LLM RAG Chatbot with Benchmarking and Keyword Analysis
+    - CNN/RNN model for adding captions to multiple images
+    - LLM RAG Chatbot with Benchmarking and Hallucination Detection and Mitigation
+    - Stay tuned ...
 
-- 👨‍💻 All of my projects are available at [Github,](Github,)
-
-- 💬 Ask me about **AI and Python**
+- 💬 Ask me about **AI, ML, Python, Coffee, and Tea**
 
 - 📫 How to reach me **codedbythet@gmail.com**
 
