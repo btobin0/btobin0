@@ -6,13 +6,11 @@
 
 - 🌱 Currently deep-diving into **CNNs, RNNs, Neural Networks, and AI Benchmarking**
 - 👯 Open to collaborating on **AI Research — especially CNNs/RNNs, Chatbots, and Superintelligence**
+- ⚡ Fun fact: **I have a lot of hobbies**
 - 💬 Ask me about **AI, ML, Python, Coffee ☕ (yes, I'm a snob), and Tea**
 - 📫 Reach me at **codedbythet@gmail.com**
-- 📄 Know about my experiences here on GitHub
-- ⚡ Fun fact: **I have a lot of hobbies**
 - ☕ Support My Projects: [buymeacoffee](https://www.buymeacoffee.com/saltypaw)
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/brian-tobin)
-
 ---
 
 ## Projects
