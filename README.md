@@ -10,10 +10,8 @@
 - 📫 Reach me at **codedbythet@gmail.com**
 - 📄 Know about my experiences here on GitHub
 - ⚡ Fun fact: **I have a lot of hobbies**
-
-<h3>Connect</h3>
-<a href="https://linkedin.com/in/brian-tobin" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a>
-<br clear="left"/>
+- ☕ Support My Projects: [buymeacoffee](https://www.buymeacoffee.com/saltypaw)
+- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/brian-tobin)
 
 ---
 
