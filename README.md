@@ -13,12 +13,7 @@
 - ⚡ Fun fact: **I have a lot of hobbies**
 
 <h3>Connect</h3>
-<a href="https://linkedin.com/in/brian-tobin" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/saltypaw">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/>
-</a>
+<a href="https://linkedin.com/in/brian-tobin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a>
 
 ---
 
@@ -36,10 +31,6 @@
 | **Image Captioning with CNN/RNN** | Feed it images, get back human-readable captions. A CNN/RNN pipeline that sees and describes — trained to handle batch inputs across diverse image sets. | `CNN` `RNN` `Deep Learning` `CV` |
 ---
 
-## AI Tools
-
-| `OpenAI` `Claude` `Gemini` `HuggingFace` |
----
 
 
 
