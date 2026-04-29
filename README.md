@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian Tobin</h1>
-<h3 align="center">AI · ML · Security Intelligence · Network Intelligence · Business Intelligence · AI Research</h3>
-
+<h1 align="center">Brian Tobin</h1>
+<h3 align="center">AI · ML · LLM/RAG Safety · Network/Security Intelligence · Compliance · AI Research</h3>
 <br>
 
 ### About Me
@@ -13,7 +12,7 @@
 - ⚡ Fun fact: **I have a lot of hobbies**
 
 <h3>Connect</h3>
-<a href="https://linkedin.com/in/brian-tobin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a>
+<p align="left"><a href="https://linkedin.com/in/brian-tobin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a></p>
 
 ---
 
