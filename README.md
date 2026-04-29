@@ -3,10 +3,6 @@
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
 ### About Me
 
 - 🌱 Currently deep-diving into **CNNs, RNNs, Neural Networks, and AI Benchmarking**
@@ -16,27 +12,13 @@
 - 📄 Know about my experiences here on GitHub
 - ⚡ Fun fact: **I have a lot of hobbies**
 
-<br>
-
 <h3>Connect</h3>
 <a href="https://linkedin.com/in/brian-tobin" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-</td>
-<td valign="top" width="40%" align="center">
-
+</a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/saltypaw">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saltypaw"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/>
 </a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=btobin0&show_icons=true&locale=en&layout=compact" alt="btobin0"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
