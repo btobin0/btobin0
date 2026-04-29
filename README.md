@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **I have a lot of hobbies**
 - 💬 Ask me about **AI, ML, Python, Coffee ☕ (yes, I'm a snob), and Tea**
 - 📫 Reach me at **codedbythet@gmail.com**
-- ☕ Support My Projects: [buymeacoffee](https://www.buymeacoffee.com/tobinaidev)
+- ☕ Support My Projects: [buymeacoffee](https://www.buymeacoffee.com/tobinai)
 - 💼 Connect with me on [LinkedIn](https://linkedin.com/in/brian-tobin)
 ---
 
