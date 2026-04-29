@@ -5,7 +5,7 @@
 ### About Me
 
 - 🌱 Currently deep-diving into **CNNs, RNNs, Neural Networks, and AI Benchmarking**
-- 👯 Open to collaborating on **AI Research — especially CNNs/RNNs, Chatbots, and Superintelligence**
+- 👯 Open to collaborating on **AI Research — LLMs, RAG, CNNs/RNNs, AI Safety, and beyond**
 - ⚡ Fun fact: **I have a lot of hobbies**
 - 💬 Ask me about **AI, ML, Python, Coffee ☕ (yes, I'm a snob), and Tea**
 - 📫 Reach me at **codedbythet@gmail.com**
