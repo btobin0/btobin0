@@ -42,9 +42,8 @@
 
 ## Projects
 
-| Project | Description | Tags |
-|---------|-------------|------|
-
+| Projects |
+|---------|
 | **Network Config Analyzer** | Investigates network device configurations to  looks for certificate expiry, hardening gaps, policy drift, and side-by-side config comparisons. This also can read hardening documentation and golden configurations to further assess network device security compliance. Supports multiple vendors. | `AI` `Python` `Networking` `Claude` |
 | **Verisova** | An AI COI scanner and auditing tool that scans and audits Acord 25 files for compliancy.  | `AI` `LLM` `Safety` `Acord25` `Compliance`|
 | **LLM Firewall** | A standalone or integrated Firewall that defends against LLM and RAG vulnerabilities.  | `AI` `LLM` `RAG` `Firewall` `Cybersecurity` `Compliance`|
