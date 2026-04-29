@@ -12,13 +12,8 @@
 - ⚡ Fun fact: **I have a lot of hobbies**
 
 <h3>Connect</h3>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td><a href="https://linkedin.com/in/brian-tobin" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a></td>
-<td>&nbsp;&nbsp;</td>
-<td><a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a></td>
-</tr>
-</table>
+<a href="https://linkedin.com/in/brian-tobin" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/saltypaw"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="saltypaw"/></a>
+<br clear="left"/>
 
 ---
 
